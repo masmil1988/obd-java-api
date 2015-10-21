@@ -1,8 +1,5 @@
 package com.github.pires.obd.enums;
 
-/**
- * Created by Massimo on 21/10/15.
- */
 public enum AirStatus {
     UPSTREAM(1, "Upstream"),
     DOWNSTREAM(2, "Downstream of catalytic converter"),

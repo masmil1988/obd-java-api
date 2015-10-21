@@ -4,9 +4,6 @@ import com.github.pires.obd.commands.ObdCommand;
 import com.github.pires.obd.enums.AirStatus;
 import com.github.pires.obd.enums.AvailableCommandNames;
 
-/**
- * Created by Massimo on 21/10/15.
- */
 public class CommandedSecondaryAirStatusCommand extends ObdCommand {
     private int airStatus;
 
