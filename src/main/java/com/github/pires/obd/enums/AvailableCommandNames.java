@@ -39,7 +39,8 @@ public enum AvailableCommandNames {
     ABS_LOAD("Absolute load"),
     ENGINE_OIL_TEMP("Engine oil temperature"),
     AIR_FUEL_RATIO("Air/Fuel Ratio"),
-    WIDEBAND_AIR_FUEL_RATIO("Wideband Air/Fuel Ratio");
+    WIDEBAND_AIR_FUEL_RATIO("Wideband Air/Fuel Ratio"),
+    COMMANDED_SECONDARY_AIR_STATUS("Commanded Secondary Air Status"),;
 
     private final String value;
 
